@@ -1,0 +1,78 @@
+.mainContainer {
+  display: flex;
+  align-items: center;
+
+  .searchContainer {
+    display: flex;
+    align-items: center;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 140%;
+    color: #5E7793;
+
+    span {
+      margin-left: 12px;
+    }
+  }
+
+  .requestContainer {
+    width: 1290px;
+    display: flex;
+    justify-content: end;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 148%;
+    color: #5E7793;
+
+    > div {
+      margin-left: 32px;
+      display: flex;
+
+      .svgContainer {
+        margin-left: 8px;
+      }
+    }
+
+    .activeContainer {
+      position: relative;
+      display: flex;
+      cursor: pointer;
+
+      .activeSpan {
+        color: black;
+      }
+
+      .menuContainer {
+        position: absolute;
+        width: 204px;
+        display: flex;
+        flex-direction: column;
+        background-color: white;
+        top: 25px;
+        left: -106px;
+        padding: 7px 0;
+        border-radius: 4px;
+
+        span {
+          display: flex;
+          align-items: center;
+          padding-left: 21px;
+          height: 40px;
+
+          &:hover {
+            color: black;
+            background-color: #deeafe;
+          }
+        }
+
+        .activeValue {
+          color: #005FF8;
+        }
+      }
+
+      .hide {
+        display: none;
+      }
+    }
+  }
+}
