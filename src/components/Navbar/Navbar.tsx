@@ -1,5 +1,5 @@
 import s from './Navbar.module.scss'
-import {idValue, SvgSelector} from '../../assets/icons/SVGselector'
+import {idValue, SvgSelector} from '../../assets/icons/SvgSelector'
 
 const navDataArray: DataArrayType[] = [
     {id: 1, name: 'Итоги', svgName: 'results'},

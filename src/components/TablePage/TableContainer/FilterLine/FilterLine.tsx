@@ -1,5 +1,5 @@
 import s from './FilterLine.module.scss'
-import {SvgSelector} from '../../../../assets/icons/SVGselector';
+import {SvgSelector} from '../../../../assets/icons/SvgSelector';
 import {DataArrayType} from '../../../Navbar/Navbar';
 import {useState} from 'react';
 
@@ -13,9 +13,9 @@ const inactiveDataArray: DataArrayType[] = [
 
 const callRequestValueDataArray: callRequestValueDataArray[] = [
     {id: 'Все звонки', name: 'Все звонки', key: 1},
-    {id: 'Входящие', name: 'Входящие', key: 1},
-    {id: 'Исходящие', name: 'Исходящие', key: 1},
-    {id: 'Пропущенные', name: 'Пропущенные', key: 1},
+    {id: 'Входящие', name: 'Входящие', key: 2},
+    {id: 'Исходящие', name: 'Исходящие', key: 3},
+    {id: 'Пропущенные', name: 'Пропущенные', key: 4},
 ]
 
 export const FilterLine = () => {

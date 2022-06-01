@@ -1,0 +1,44 @@
+.mainContainer {
+  margin-top: 24px;
+
+  .callContainer {
+    border-top: 1px solid #EAF0FA;
+    height: 64px;
+    display: flex;
+    align-items: center;
+
+    .typeOfCall {
+      padding-left: 6px;
+      width: 47px;
+    }
+    .timeContainer{
+      width: 89px;
+    }
+    .avatarContainer{
+      width: 96px;
+      display: flex;
+      align-items: center;
+      justify-content: space-between;
+      padding-right: 32px;
+      img{
+        width: 32px;
+        height: 32px;
+        border-radius: 50%;
+      }
+    }
+    .phoneNumberContainer{
+      width: 326px;
+    }
+    .source{
+      width: 214px;
+    }
+    .estimationContainer{
+      width: 461px;
+    }
+    .recordCall{
+      width: 352px;
+      display: flex;
+      justify-content: end;
+    }
+  }
+}

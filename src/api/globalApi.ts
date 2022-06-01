@@ -16,8 +16,8 @@ export type CallType = {
     abuse: any[]
     contact_company: string
     contact_name: string
-    date: Date
-    date_notime: Date
+    date: string
+    date_notime: string
     disconnect_reason: string
     errors: any[]
     from_extension: string

@@ -7,5 +7,5 @@ export const HeaderTable = () => <div className={s.mainContainer}>
     <span style={{width: 326}}>Звонок</span>
     <span style={{width: 214}}>Источник</span>
     <span style={{width: 461}}>Оценка</span>
-    <span>Звонок</span>
+    <span>Длительность</span>
 </div>
