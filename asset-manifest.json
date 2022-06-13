@@ -1,16 +1,32 @@
 {
   "files": {
-    "main.css": "/skillaTest/static/css/main.4995233b.css",
+    "main.css": "/skillaTest/static/css/main.c55a9be1.css",
     "main.js": "/skillaTest/static/js/main.19f5a0c8.js",
     "static/js/787.ae78d022.chunk.js": "/skillaTest/static/js/787.ae78d022.chunk.js",
+    "static/media/SFProDisplay-Bold.eot": "/skillaTest/static/media/SFProDisplay-Bold.e43887f683e1a4accd82.eot",
+    "static/media/SFProDisplay-Bold.ttf": "/skillaTest/static/media/SFProDisplay-Bold.85d6f73bf73d03518461.ttf",
+    "static/media/SFProDisplay-Medium.eot": "/skillaTest/static/media/SFProDisplay-Medium.c227ee1b22a21ca9441a.eot",
+    "static/media/SFProDisplay-Medium.ttf": "/skillaTest/static/media/SFProDisplay-Medium.7fe92bb1fe75c84e473a.ttf",
+    "static/media/SFProDisplay-Regular.eot": "/skillaTest/static/media/SFProDisplay-Regular.ea1b407b07b1c65ddb67.eot",
+    "static/media/SFProDisplay-Regular.ttf": "/skillaTest/static/media/SFProDisplay-Regular.6b109fecbc7563467e36.ttf",
+    "static/media/SFProDisplay-MediumItalic.eot": "/skillaTest/static/media/SFProDisplay-MediumItalic.8260481680b3025c800f.eot",
+    "static/media/SFProDisplay-MediumItalic.ttf": "/skillaTest/static/media/SFProDisplay-MediumItalic.f14d7972dccb0b7e7967.ttf",
+    "static/media/SFProDisplay-Medium.woff": "/skillaTest/static/media/SFProDisplay-Medium.7274e74c05adf47dbcd9.woff",
+    "static/media/SFProDisplay-Bold.woff": "/skillaTest/static/media/SFProDisplay-Bold.5b08afd6b167d7ec48ce.woff",
+    "static/media/SFProDisplay-Regular.woff": "/skillaTest/static/media/SFProDisplay-Regular.7ee14c637e39445d7093.woff",
+    "static/media/SFProDisplay-MediumItalic.woff": "/skillaTest/static/media/SFProDisplay-MediumItalic.6f3ccd2fb7de5ec3c6bc.woff",
+    "static/media/SFProDisplay-Medium.woff2": "/skillaTest/static/media/SFProDisplay-Medium.22a99d36f90cc52d2914.woff2",
+    "static/media/SFProDisplay-Bold.woff2": "/skillaTest/static/media/SFProDisplay-Bold.84c242fe1f30a86d5ab3.woff2",
+    "static/media/SFProDisplay-Regular.woff2": "/skillaTest/static/media/SFProDisplay-Regular.d5ff9f6824d2c6607361.woff2",
+    "static/media/SFProDisplay-MediumItalic.woff2": "/skillaTest/static/media/SFProDisplay-MediumItalic.7a6c754a139276a78df1.woff2",
     "static/media/header.png": "/skillaTest/static/media/header.d5d3c1dde2f05c98b1d3.png",
     "index.html": "/skillaTest/index.html",
-    "main.4995233b.css.map": "/skillaTest/static/css/main.4995233b.css.map",
+    "main.c55a9be1.css.map": "/skillaTest/static/css/main.c55a9be1.css.map",
     "main.19f5a0c8.js.map": "/skillaTest/static/js/main.19f5a0c8.js.map",
     "787.ae78d022.chunk.js.map": "/skillaTest/static/js/787.ae78d022.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.4995233b.css",
+    "static/css/main.c55a9be1.css",
     "static/js/main.19f5a0c8.js"
   ]
 }
