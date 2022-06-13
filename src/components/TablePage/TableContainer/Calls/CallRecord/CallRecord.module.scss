@@ -1,0 +1,12 @@
+.mainContainer {
+  width: 352px;
+  display: flex;
+  justify-content: end;
+
+  .reloadButton {
+    &:hover {
+      cursor: pointer;
+      color: #005FF8;
+    }
+  }
+}

@@ -52,6 +52,9 @@
         left: -106px;
         padding: 7px 0;
         border-radius: 4px;
+        box-shadow: 0 0 26px rgba(233, 237, 243, 0.8);
+        border: 1px solid #EAF0FA;
+        box-sizing: border-box;
 
         span {
           display: flex;

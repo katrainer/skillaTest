@@ -1,8 +1,8 @@
 import axios from 'axios'
 
 export const instance = axios.create({
-    baseURL: 'https://api.skilla.ru/mango/',
-    headers:{
-        Authorization: 'Bearer testtoken',
-    },
+	baseURL: 'https://api.skilla.ru/mango/',
+	headers: {
+		Authorization: 'Bearer testtoken',
+	},
 })

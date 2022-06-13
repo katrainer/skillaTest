@@ -1,8 +1,8 @@
-import {Header} from './Header/Header';
-import {TableContainer} from './TableContainer/TableContainer';
+import {Header} from './Header/Header'
 import s from './TablePage.module.scss'
+import {TableContainer} from './TableContainer/TableContainer'
 
 export const TablePage = () => <div className={s.mainContainer}>
-    <Header/>
-    <TableContainer/>
+	<Header/>
+	<TableContainer/>
 </div>

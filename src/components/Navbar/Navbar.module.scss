@@ -17,10 +17,32 @@
 
     .activeMenu {
       background: rgba(216, 228, 251, 0.32);
+      position: relative;
+
+      &:before {
+        position: absolute;
+        content: '';
+        background: #005FF8;
+        width: 3px;
+        height: 52px;
+        left: 0;
+        top: 0;
+      }
+
+      &:after {
+        position: absolute;
+        content: '';
+        background: #FFD500;
+        box-shadow: 0 3px 8px rgba(237, 218, 1, 0.5);
+        width: 8px;
+        height: 8px;
+        border-radius: 50%;
+        left: 205px;
+      }
     }
 
     a {
-      height: 30px;
+      height: 20px;
       padding: 15px 0 17px 14px;
       text-decoration: none;
       display: flex;
@@ -52,7 +74,8 @@
       display: flex;
       align-items: center;
       cursor: pointer;
-      span{
+
+      span {
         padding: 13px 0 15px 0;
         font-weight: 500;
         font-size: 16px;
