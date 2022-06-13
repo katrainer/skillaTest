@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/skillaTest/static/css/main.4995233b.css",
+    "main.js": "/skillaTest/static/js/main.19f5a0c8.js",
+    "static/js/787.ae78d022.chunk.js": "/skillaTest/static/js/787.ae78d022.chunk.js",
+    "static/media/header.png": "/skillaTest/static/media/header.d5d3c1dde2f05c98b1d3.png",
+    "index.html": "/skillaTest/index.html",
+    "main.4995233b.css.map": "/skillaTest/static/css/main.4995233b.css.map",
+    "main.19f5a0c8.js.map": "/skillaTest/static/js/main.19f5a0c8.js.map",
+    "787.ae78d022.chunk.js.map": "/skillaTest/static/js/787.ae78d022.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4995233b.css",
+    "static/js/main.19f5a0c8.js"
+  ]
+}
